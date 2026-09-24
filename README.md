@@ -23,7 +23,7 @@ Open `Getip.cls` in Visual Basic 6.0 IDE (no `.vbp` in this tree).
 
 ## Attribution and provenance
 
-Working copy from Dave Robinson's OneDrive Historical Dev folder `VB/Old/Getip`.
+Working copy from my Historical Dev folder `VB/Old/Getip`.
 Original sample by David Diedrich; see embedded `readme.txt` and http://www.netfokus.dk/vbadmincode/.
 
 ## License
