@@ -28,4 +28,4 @@ Original sample by David Diedrich; see embedded `readme.txt` and http://www.netf
 
 ## License
 
-Third-party / shared sample code remains under its original terms (or none, where none were supplied). See `readme.txt`. Do not treat this tree as VaderConsulting original MIT-licensed work.
+Third-party / shared sample code remains under its original terms (or none, where none were supplied). See `readme.txt`. Do not treat this tree as Vader Consulting original MIT-licensed work.
